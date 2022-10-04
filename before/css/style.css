@@ -10,11 +10,11 @@ border-radius: 0;
 background-color: white;
 }
 #logo-img{
-background: url("/home/rawan/mywebsite/befor/images/logob.png") no-repeat;
+background: url(https://github.com/RawanAli1993/restaurant_site/blob/main/before/images/logob.png?raw=true) no-repeat;
 
 
 
-/*background: url(https://github.com/RawanAli1993/intern_test/blob/main/logob.png?raw=true) no-repeat;*/
+
 width: 150px;
 height: 150px;
 margin: 10px 15px 10px 0px;
@@ -139,12 +139,12 @@ border: 2px solid #d4172d;
 	box-shadow: 0 1px 5px 1px #cccccc;
 }
 #menu-tile{
-	background: url("/home/rawan/mywebsite/images/menu.jpg") no-repeat;
+	background: url(https://github.com/RawanAli1993/restaurant_site/blob/main/before/images/menu.jpg?raw=true) no-repeat;
 
 	background-position: center;
 }
 #specials-tile{
-	background: url("/home/rawan/mywebsite/images/speciales.jpg") no-repeat;
+	background: url(https://github.com/RawanAli1993/restaurant_site/blob/main/before/images/speciales.jpg?raw=true) no-repeat;
 	background-position: center;
 }
 #menu-tile span, #specials-tile span, #map-tile span {
@@ -260,20 +260,20 @@ h3.menu-item-title{
 @media (min-width: 1200px){
 
 	 .container .jumbotron {
-    background: url("/home/rawan/mywebsite/befor/images/resturant1200.jpg") no-repeat;
+    background: url(https://github.com/RawanAli1993/restaurant_site/blob/main/before/images/resturant1200.jpg?raw=true) no-repeat;
     height: 675px;
 }
 }
 /*meduim device*/
 @media (min-width: 992px) and (max-width: 1199px){
 	#logo-img{
-background: url("/home/rawan/mywebsite/images/logom.png") no-repeat;
+background: url(https://github.com/RawanAli1993/restaurant_site/blob/main/before/images/logom.png?raw=true) no-repeat;
 width: 100px;
 height: 100px;
 margin: 5px 5px 5px 0;
 }
 .container .jumbotron {
-    background: url("/home/rawan/mywebsite/images/resturant 992.jpg") no-repeat;
+    background: url(https://github.com/RawanAli1993/restaurant_site/blob/main/before/images/resturant%20992.jpg?raw=true) no-repeat;
     height: 558px;
 }
 
@@ -282,7 +282,7 @@ margin: 5px 5px 5px 0;
 /*small device*/
 @media (min-width: 768px) and (max-width: 991px){
    .container .jumbotron {
-    background: url("/home/rawan/mywebsite/images/resturant768.jpg") no-repeat;
+    background: url(https://github.com/RawanAli1993/restaurant_site/blob/main/before/images/resturant768.jpg?raw=true) no-repeat;
     height: 432px;
 }
 
